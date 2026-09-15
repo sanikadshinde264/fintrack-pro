@@ -87,7 +87,7 @@ git clone https://github.com/sanikadshinde264/fintrack-pro.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd FinTrack-Pro
+cd fintrack-pro
 ```
 
 ### 3. Open the Application
