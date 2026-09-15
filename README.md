@@ -35,7 +35,7 @@ Most people find it hard to keep track of daily expenses using notebooks or memo
 
 ## 📁 Project Directory Structure
 ```
-FinTrack-Pro/
+fintrack-pro/
 ├── index.html      → Main page (form, chart, tables)
 ├── style.css       → Styling and layout
 ├── script.js       → App logic (add/delete expenses, totals, chart)
@@ -59,8 +59,8 @@ FinTrack Pro works as a simple, functional expense tracker that runs fully in th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
+git clone https://github.com/sanikadshinde264/fintrack-pro.git
+      ```
 2. Navigate to the project directory.
 3. Open the `index.html` file in any modern web browser.
 4. Start using the application.
