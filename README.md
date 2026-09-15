@@ -65,10 +65,6 @@ FinTrack Pro works as a simple, functional expense tracker that runs fully in th
 3. Open the `index.html` file in any modern web browser.
 4. Start using the application.
 
-## 🚀 Live Deployment
-
-This project uses **GitHub Actions** for continuous deployment. Whenever changes are pushed to the `main` branch, the GitHub Actions workflow (`.github/workflows/static.yml`) automatically builds and deploys the website to **GitHub Pages**.
-
 ## 🚧 Future Work
 - Add option to export data as CSV/PDF
 - Add monthly budget limits with alerts
